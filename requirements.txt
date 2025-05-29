@@ -11,3 +11,4 @@ fastembed
 pdfplumber
 sentence-transformers
 elevenlabs
+os

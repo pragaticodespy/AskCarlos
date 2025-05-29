@@ -1,5 +1,6 @@
 FROM llama3.2:latest
 
+#sets the temperature 0-1 - higher being more creative, lower being more logical. 
 PARAMETER temperature 0.8
 
 SYSTEM """
