@@ -1,4 +1,6 @@
-streamlit
+langchainhub
+pandas
+numpy
 ollama
 langchain
 langchain-core
@@ -10,5 +12,6 @@ unstructured[all-docs]
 fastembed
 pdfplumber
 sentence-transformers
-elevenlabs
-os
+python-docx
+openpyx1
+requests
