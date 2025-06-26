@@ -1,4 +1,4 @@
-AskCarlos: Your Sassy AI Stylist, Strategist, and Spanish F1 Legend
+**AskCarlos: Your Sassy AI Stylist, Strategist, and Spanish F1 Legend**
 
 AskCarlos is a local Retrieval-Augmented Generation (RAG) chatbot inspired by none other than Carlos Sainz Jr.—with flair, charm, and a little sass. It answers your questions using uploaded PDFs as context, with the wit and warmth of a Spanish F1 driver who moonlights as your personal assistant.
 
