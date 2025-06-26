@@ -13,5 +13,6 @@ fastembed
 pdfplumber
 sentence-transformers
 python-docx
-openpyx1
+openpyxl
 requests
+chromadb

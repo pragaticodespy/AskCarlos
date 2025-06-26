@@ -7,7 +7,7 @@ MODEL_NAME = "carlos:latest"
 
 def get_user_prompt():
     """Get prompt input from Chili admirer"""
-    return (input("Enter your prompt beautiful ;) : "))
+    return (input("What's on your mind beautiful ;) ? : "))
 
 
 def get_payload(prompt):
@@ -23,7 +23,7 @@ def get_response(payload):
 
     #checking response status
     if response.status_code == 200:
-        print("Chili wants to say that : \n", end=" ", flush=True)
+        print("Chili could say that : \n", end=" ", flush=True)
         for line in response.iter_lines():
             if line:
                 decoded_line = line.decode("utf-8")
